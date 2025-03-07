@@ -11,7 +11,7 @@
         한국고용정보원, 2020에 따르면 정보보안전문가는 2021년 약 1200명에서
         2031년 약 1400명으로 향후 10년간 약 2천 명(연평균 1.8%)증가할 것으로 전망된다.
         
-*출처 <https://www.edujin.co.kr/news/articleView.html?idxno=44062>*
+출처 : <https://www.edujin.co.kr/news/articleView.html?idxno=44062>
 
 ### 4. 직업을 위해 갖춰야 할 필요한 지식, 소양, 역량
         정보보안전문가가 되기 위해서는 보통 고졸 이상의 학력이 필요하며,
